@@ -2,7 +2,7 @@
 # 🧩 Select All – HackerRank
 
 ## 📝 Problem Statement
-![Question](question.png)
+![Question](question.jpg)
 
 ---
 
